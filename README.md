@@ -1,0 +1,2 @@
+# whyscape
+AI Automation Whyscape
